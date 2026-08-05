@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-c9yl06.date-me.pro/sitemap.xml
